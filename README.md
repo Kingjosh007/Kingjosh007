@@ -7,21 +7,21 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKingjosh007&count_bg=%2326817D&title_bg=%231F363C&icon=&icon_color=%23E7E7E7&title=visitors+%28daily%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* I am a full-stack software developer currently studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
-* My core stack includes **HTML**, **CSS**, **Javascript**, **Node.js** and very soon, **React** and **Ruby**. In the past years I've worked on projects using **PHP**, **Java**, **C#**, **C**.
-* I'm interested in contributing to open source, which I haven't done much these past years.
-* I'm interested in data science, and I'd like to explore this field at some point in my career.
+* I am a full-stack software developer :computer: currently studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
+* My core stack includes **HTML**, **CSS**, **Javascript**, **Node.js** and very soon, **React** and **Ruby** :diamonds:. In the past years I've worked on projects using **PHP**, **Java**, **C#**, **C**.
+* I'm interested in contributing to open source, which I haven't done much in the past years. :smirk:
+* I'm interested in data science and artificial intelligence, and I'd like to explore this field at some point in my career.
 * I love thinking and solving problems with code.
-* I have a Master's degree in Computer Science.
-* I am a JavaScript enthusiast and I would like to stick to this language as long as possible, even if I write code in other languages from time to time (Java and PHP mainly, and soon Ruby).
-* I'm fascinated by the idea of writing code that helps change the world in a meaningful way. That's why I opted for global opportunities. I am currently taking the training offered by ![](https://img.shields.io/badge/Microverse-blueviolet) which will help me reach my goal: **Getting a good remote software developer job by April 2022.**
+* I have a Master's degree :page_facing_up: in Computer Science.
+* I am a JavaScript enthusiast :star_struck: and I would like to stick to this language as long as possible, even if I write code in other languages from time to time (Java and PHP mainly, and soon Ruby :diamonds:).
+* I'm fascinated by the idea of writing code that helps change the world :earth_africa: in a meaningful way. That's why I opted for global opportunities :globe_with_meridians:. I am currently taking the training offered by ![](https://img.shields.io/badge/Microverse-blueviolet) which will help me reach my goal: **Getting a good remote software developer job by April 2022.** :star_struck: :star_struck:
 
 
 
 ### Talking about personal Stuff:
 
-- When I'm not coding or learning, I'm most probably playing French Scrabble (I made my way into the top 1% of the world in just 3 years of competition) or watching comedies and dramas.
-- I spend most of my free time with my family. I don't go out much, and my loved ones are very special to me.
+- When I'm not coding or learning, I'm most probably playing French Scrabble :brain: (I made my way into the top 1% of the world ranking :top: in just 3 years of competition). I also often watch comedies and dramas.
+- I spend most of my free time with my family :family_man_man_girl_boy:. I don't go out much, and my loved ones are very special to me. :hearts:
 - I love to travel and would like to become a digital nomad for a while in the near future.
 
 
