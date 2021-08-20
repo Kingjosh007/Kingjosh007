@@ -2,6 +2,8 @@
 
 ![fancy_gif](./images/fancy_kjc.gif)
 
+[![KJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingjosh007)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Welcome to my profile
 
