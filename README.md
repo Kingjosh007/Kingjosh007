@@ -15,13 +15,40 @@
 
 &nbsp;
 
-* I am a full-stack software developer :computer: currently studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
-* My core stack includes **HTML**, **CSS**, **Javascript**, **Node.js** and very soon, **React** and **Ruby** :diamonds:. In the past years I've worked on projects using **PHP**, **Java**, **C#**, **C**.
-* I'm interested in contributing to open source, which I haven't done much in the past years. :smirk:
-* I'm interested in data science and artificial intelligence, and I'd like to explore this field at some point in my career.
+* I am a full-stack software developer :computer: currently strengthening my skills at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online school that trains people globally (and full-time) to become world class **remote software developers**. It is a very selective program, since the admission rate is less than 1% of applications. 
+
+&nbsp;
+
+## Core technologies
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) &nbsp; ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp; ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+## Secondary or rarely used technologies
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) &nbsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp; ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+&nbsp;
+
+&nbsp;
+
+
+* I'm interested in contributing to open source, which I'm just getting started with. :smirk:
+
+* I'm interested in data science and artificial intelligence, and I'd like to dig deeper in those fields at some point in my career.
+
 * I love thinking and solving problems with code. I train on [Codewars](https://www.codewars.com/). Here is my badge: <a target="_blank" href="https://www.codewars.com/users/Kingjo007"><img src="https://www.codewars.com/users/Kingjo007/badges/large" alt="Codewars badge (large)"></a> 
+
 * I have a Master's degree :page_facing_up: in Computer Science.
-* I am a JavaScript enthusiast :star_struck: and I would like to stick to this language as much as possible, even if I write code in other languages from time to time (Java mainly, and soon Ruby :diamonds:).
+
+&nbsp;
+
+* I am a ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) enthusiast :star_struck: and I would like to stick to this language as much as possible, even if I write code in other languages from time to time (Java mainly, and soon Ruby :diamonds:).
+
 * I love the idea of writing code that helps change the world :earth_africa: in a meaningful way. That's why I opted for global opportunities :globe_with_meridians:. I am currently taking the training offered by ![](https://img.shields.io/badge/Microverse-blueviolet) which will help me reach my goal: **Getting a good remote software developer job by April 2022.** :star_struck: :star_struck:
 
 
