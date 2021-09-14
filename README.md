@@ -41,7 +41,8 @@
 
 * I'm interested in data science and artificial intelligence, and I'd like to dig deeper in those fields at some point in my career.
 
-* I love thinking and solving problems with code. I train on [Codewars](https://www.codewars.com/). Here is my badge: <a target="_blank" href="https://www.codewars.com/users/Kingjo007"><img src="https://www.codewars.com/users/Kingjo007/badges/large" alt="Codewars badge (large)"></a> The badge is updated in real time, so check back often to see how I am progressing.
+* I love thinking and solving problems with code. I train on [Codewars](https://www.codewars.com/). Here is my badge: <a target="_blank" href="https://www.codewars.com/users/Kingjo007"><img src="https://www.codewars.com/users/Kingjo007/badges/large" alt="Codewars badge (large)"></a> <br>The badge is updated in real time, so check back often to see how I am progressing.
+
 
 * I have a Master's degree :page_facing_up: in Computer Science, but does it really matter? :smirk:
 
