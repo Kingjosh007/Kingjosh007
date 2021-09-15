@@ -11,7 +11,7 @@
 
 **Top languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingjosh007)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingjosh007&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
