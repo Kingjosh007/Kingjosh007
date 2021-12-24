@@ -13,6 +13,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingjosh007&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingjosh007&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 &nbsp;
 
 * I am a full-stack software developer :computer: currently strengthening my skills at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online school that trains people globally (and full-time) to become world class **remote software developers**. It is a very selective program, since the admission rate is less than 1% of applications. 
@@ -46,9 +48,11 @@
 &nbsp;
 
 
-* I'm interested in contributing to open source, which I'm just getting started with. :smirk:
+* As a member of <a target="_blank"
+href="https://github.com/osscameroon"><img
+src="https://avatars.githubusercontent.com/u/73784866?s=200&v=4"></img></a>, I'm interested in contributing to open source. I'm a member of :smirk:
 
-* I'm interested in data science and artificial intelligence, and I'd like to dig deeper in those fields at some point in my career.
+* I'm interested in data science and machine learning, and I'd like to dig deeper in those fields at some point in my career.
 
 * I love thinking and solving problems with code. I train on <a target="_blank" href="https://codewars.com">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>. Here is my badge: <a target="_blank" href="https://www.codewars.com/users/Kingjo007"><img src="https://www.codewars.com/users/Kingjo007/badges/large" alt="Codewars badge (large)"></a> <br>The badge is updated in real time, so check back often to see how I am progressing.
 
