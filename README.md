@@ -74,7 +74,7 @@ href="https://github.com/osscameroon"><img src="https://avatars.githubuserconten
 You can find more about me, send me an email or just say "Hi" here: 
 
 <a target="_blank"
-href="https://www.linkedin.com/in/king-josaphat-chewa-aa154011b/"><img
+href="https://www.linkedin.com/in/king-josaphat-chewa/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 &nbsp; &nbsp; <a target="_blank"
 href="https://twitter.com/KingJoChewa"><img
