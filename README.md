@@ -9,11 +9,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKingjosh007&count_bg=%2326817D&title_bg=%231F363C&icon=&icon_color=%23E7E7E7&title=visitors+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**Top languages**
+**Statistics**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingjosh007&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingjosh007&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingjosh007&theme=merko)](https://github.com/anuraghazra/github-readme-stats) &nbsp;  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingjosh007&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 &nbsp;
 
@@ -49,8 +47,7 @@
 
 
 * As a member of <a target="_blank"
-href="https://github.com/osscameroon"><img
-src="https://avatars.githubusercontent.com/u/73784866?s=200&v=4"></img></a>, I'm interested in contributing to open source. I'm a member of :smirk:
+href="https://github.com/osscameroon"><img src="https://avatars.githubusercontent.com/u/73784866?s=64&amp;v=4" alt="@osscameroon" size="32" height="32" width="32" data-view-component="true" class="avatar" /></a>, I'm interested in contributing to open source. I'm a member of :smirk:
 
 * I'm interested in data science and machine learning, and I'd like to dig deeper in those fields at some point in my career.
 
@@ -78,16 +75,16 @@ You can find more about me, send me an email or just say "Hi" here:
 
 <a target="_blank"
 href="https://www.linkedin.com/in/king-josaphat-chewa-aa154011b/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 &nbsp; &nbsp; <a target="_blank"
 href="https://twitter.com/KingJoChewa"><img
-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>  &nbsp; &nbsp; <a target="_blank"
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>  &nbsp; &nbsp; <a target="_blank"
 href="mailto:kingjochewa2007@gmail.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 <a target="_blank"
 href="https://web.facebook.com/King.Josh.Chewa.2007"><img
-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a> &nbsp; &nbsp; <a target="_blank"
+src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp; &nbsp; <a target="_blank"
 href="https://wa.me/+237655275064"><img
 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
