@@ -47,7 +47,7 @@
 
 
 * As a member of <a target="_blank"
-href="https://github.com/osscameroon"><img src="https://avatars.githubusercontent.com/u/73784866?s=64&amp;v=4" alt="@osscameroon" size="32" height="32" width="32" data-view-component="true" class="avatar" /></a>, I'm interested in contributing to open source. I'm a member of :smirk:
+href="https://github.com/osscameroon"><img src="https://avatars.githubusercontent.com/u/73784866?s=64&amp;v=4" alt="@osscameroon" size="32" height="32" width="32" data-view-component="true" class="avatar" /></a>, I'm interested in contributing to open source. :smirk:
 
 * I'm interested in data science and machine learning, and I'd like to dig deeper in those fields at some point in my career.
 
